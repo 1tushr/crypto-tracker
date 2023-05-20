@@ -1,0 +1,40 @@
+/* App.css */
+*{
+  background-color: black;
+}
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: black;
+  color: white;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ffffff;
+}
+
+th {
+  background-color: #000000;
+  font-weight: bold;
+  color: white;
+}
+
+tr:hover {
+  background-color: #1c1c1c;
+}
+
+
+
+
